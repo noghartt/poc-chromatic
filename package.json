@@ -62,7 +62,7 @@
     "babel-plugin-named-exports-order": "^0.0.2",
     "chromatic": "^6.13.1",
     "prop-types": "^15.8.1",
-    "webpack": "^5.75.0"
+    "webpack": "^5.76.0"
   },
   "readme": "ERROR: No README data found!",
   "_id": "poc-chromatic@0.1.0"
